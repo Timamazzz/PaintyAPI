@@ -1,5 +1,5 @@
 # PaintyAPI
-Test task for a c# developer vacancy in Paintly
+Test task for the position of C# developer in Painty
 
 **Task:**
 Implement a system for saving and viewing images. Users can upload images, view their own images, add friends who can view the user's images.
