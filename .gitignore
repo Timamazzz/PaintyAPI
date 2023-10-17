@@ -1,0 +1,73 @@
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Rider files
+.idea/
+
+# Ignore build output and dependencies
+bin/
+obj/
+*.dll
+*.suo
+*.user
+*.sln
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore .NET Core artifacts
+**/bin/
+**/obj/
+
+# Ignore user-specific files
+*.userprefs
+
+# Ignore NuGet packages
+**/packages/*
+!**/packages/repositories.config
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore SQL Server database files
+*.mdf
+*.ldf
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore Windows image file caches
+Thumbs.db
+
+# Ignore Visual Studio profiling
+*.vsp
+
+# Ignore Rider-specific files
+.idea/
+
+# Ignore build logs
+*_ReSharper*
+
+# Ignore any .swp, .swo, .swn, .swm files created by Vim
+[._]*.swn
+[._]*.swm
+[._]*.swo
+[._]*.swp
+
+# Ignore Rider Caches
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# Ignore user-specific files
+*.suo
+*.user
+*.sln
+!PaintyAPI.sln  # Exclude all .sln files except PaintyAPI.sln
+
+# Ignore Test Files
+[Tt]est[Tt]est*.*
+
+# Ignore .NET Core .vscode folder
+.vscode/
